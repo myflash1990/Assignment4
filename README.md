@@ -26,7 +26,7 @@ Click `Start Quiz` on the main page to begin the quiz. Select your answer choice
 
 ## Deployed Application
 You can view the live application
-[here](https://t-starkw.github.io/Code-Quiz/)
+[here]()
 
 ## Meta
 
